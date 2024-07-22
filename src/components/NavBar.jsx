@@ -1,6 +1,10 @@
 // src/components/NavBar.jsx
 // src/components/NavBar.jsx
 import { Link } from 'react-router-dom';
+// src/components/NavBar.jsx
+
+
+// src/components/NavBar.jsx
 
 const NavBar = () => {
     // src/components/NavBar.jsx
@@ -16,7 +20,8 @@ const NavBar = () => {
       </ul>
     </nav>
   );
-
-};
+}
+  
   export default NavBar;
+  
   
